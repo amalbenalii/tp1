@@ -1,3 +1,6 @@
+<?php
+include('traitement.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +10,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
+<script src="js/code.js"></script>
 <body>
     <section>
         <h1>les commandes</h1>
