@@ -1,4 +1,8 @@
 <?php
-$name=$_POST['name'];
+
+$servername="loocalhost";
+$password="";
+$database="poly"
+$name=$_POST['nom'];
 
 ?>
